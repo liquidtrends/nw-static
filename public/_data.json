@@ -1,0 +1,17 @@
+{
+  "index": {
+    "pageTitle": "Home"
+  },
+  "about": {
+    "pageTitle": "About Us"
+  },
+  "services": {
+    "pageTitle": "Our Services"
+  },
+  "employment": {
+    "pageTitle": "Employment"
+  },
+  "contact": {
+    "pageTitle": "Contact Us"
+  }
+}

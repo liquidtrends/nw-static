@@ -1,0 +1,11 @@
+<%- partial("/_partials/_sub-header") %>
+<div class="container main-content">
+  <div class="row">
+  	<div id="services" class="service-ul">
+      <% services.forEach(function(service) { %>
+      	<div class="service-block"><%= service %></div>
+      <% }); %>
+  	</div>
+  </div>
+</div>
+<%- partial("/_partials/_footer") %>
